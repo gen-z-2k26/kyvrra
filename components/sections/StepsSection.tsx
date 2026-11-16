@@ -7,7 +7,7 @@ const steps = [
   {
     number: "01",
     title: "Browse",
-    text: "Explore appliances, climate equipment, and personal care in one catalog.",
+    text: "Explore makeup organizers, vanity storage, and home organization in one catalog.",
   },
   {
     number: "02",

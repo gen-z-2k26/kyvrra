@@ -7,34 +7,34 @@ import { cn } from "@/lib/utils";
 
 const needs = [
   {
-    title: "Kitchen and laundry",
-    text: "Refrigerators, wine fridges, range hoods, and laundry appliances for everyday household needs.",
-    image: "/brand/collection-kitchen.jpg",
-    alt: "Kitchen with a refrigerator, range hood, and stacked laundry",
+    title: "Makeup organizers",
+    text: "Trays, drawers, and holders that keep beauty essentials in one place.",
+    image: "/brand/collection-care.jpg",
+    alt: "Vanity surface with everyday personal care items",
     imageClass: "object-[62%_center]",
     tile: "feature" as const,
   },
   {
-    title: "Heating and air",
-    text: "Air conditioners, furnaces, boilers, humidifiers, and space heaters.",
-    image: "/brand/collection-climate.jpg",
-    alt: "Living room with a wall-mounted air conditioner",
+    title: "Vanity storage",
+    text: "Storage made for vanities, so counters stay clear and easy to use.",
+    image: "/brand/collection-home.jpg",
+    alt: "A tidy room with practical storage",
     imageClass: "object-[center_22%]",
     tile: "wide" as const,
   },
   {
-    title: "Hair and personal care",
-    text: "Dryers, straighteners, curling irons, and styling sets.",
-    image: "/brand/collection-care.jpg",
-    alt: "Hair dryer and straightener on a bathroom vanity",
+    title: "Beauty accessory organizers",
+    text: "Holders for brushes, bottles, and the small pieces that usually scatter.",
+    image: "/brand/collection-kitchen.jpg",
+    alt: "Organized household storage",
     imageClass: "object-[center_58%]",
     tile: "compact" as const,
   },
   {
-    title: "Home and commercial",
-    text: "Garage door openers and hand dryers for practical spaces.",
-    image: "/brand/collection-home.jpg",
-    alt: "Garage with a sectional door and opener rail",
+    title: "Home organization",
+    text: "Practical storage for everyday spaces beyond the vanity.",
+    image: "/brand/collection-climate.jpg",
+    alt: "A bright, uncluttered living space",
     imageClass: "object-[24%_42%]",
     tile: "compact" as const,
   },
@@ -78,7 +78,7 @@ export function NeedsSection() {
               key={item.title}
               href="/products"
               className={cn(
-                "group relative isolate flex overflow-hidden rounded-2xl bg-[#101613] text-white",
+                "group relative isolate flex overflow-hidden rounded-2xl bg-neutral-950 text-white",
                 tileClass[item.tile],
               )}
             >
@@ -98,7 +98,7 @@ export function NeedsSection() {
               />
               <div
                 aria-hidden
-                className="absolute inset-0 bg-gradient-to-t from-[#101613]/92 via-[#101613]/45 to-[#101613]/10"
+                className="absolute inset-0 bg-gradient-to-t from-neutral-950/92 via-neutral-950/45 to-neutral-950/10"
               />
               <div
                 className={cn(
@@ -110,7 +110,7 @@ export function NeedsSection() {
                   {item.title}
                 </h3>
                 <p className={copyClass[item.tile]}>{item.text}</p>
-                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-[#9DCFB0]">
+                <span className="mt-4 inline-flex items-center gap-1.5 text-sm font-medium text-primary">
                   Shop collection
                   <ArrowRight className="size-4 transition-transform duration-200 group-hover:translate-x-0.5" />
                 </span>

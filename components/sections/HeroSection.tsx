@@ -7,10 +7,10 @@ import { pageContainer } from "@/lib/layout";
 import { cn } from "@/lib/utils";
 
 const collections = [
-  { label: "Kitchen and laundry", href: "/products" },
-  { label: "Heating and air", href: "/products" },
-  { label: "Hair and personal care", href: "/products" },
-  { label: "Home and commercial", href: "/products" },
+  { label: "Makeup organizers", href: "/products" },
+  { label: "Vanity storage", href: "/products" },
+  { label: "Beauty accessory organizers", href: "/products" },
+  { label: "Home organization", href: "/products" },
 ];
 
 export function HeroSection({ settings }: { settings: StoreSettings }) {
@@ -20,11 +20,11 @@ export function HeroSection({ settings }: { settings: StoreSettings }) {
   return (
     <section
       aria-labelledby="hero-heading"
-      className="relative isolate h-[calc(100svh-3.5rem)] overflow-hidden bg-[#101613] text-white sm:h-[calc(100svh-4rem)]"
+      className="relative isolate h-[calc(100svh-3.5rem)] overflow-hidden bg-neutral-950 text-white sm:h-[calc(100svh-4rem)]"
     >
       <Image
         src="/brand/home-hero.jpg"
-        alt="Sunlit kitchen with a refrigerator, range, and kettle"
+        alt="A clear, organized space ready for everyday storage"
         fill
         priority
         sizes="100vw"
@@ -32,11 +32,11 @@ export function HeroSection({ settings }: { settings: StoreSettings }) {
       />
       <div
         aria-hidden
-        className="absolute inset-0 bg-gradient-to-r from-[#101613]/92 via-[#101613]/70 to-[#101613]/25"
+        className="absolute inset-0 bg-gradient-to-r from-neutral-950/92 via-neutral-950/70 to-neutral-950/25"
       />
       <div
         aria-hidden
-        className="absolute inset-0 bg-gradient-to-t from-[#101613]/85 via-[#101613]/20 to-[#101613]/25"
+        className="absolute inset-0 bg-gradient-to-t from-neutral-950/85 via-neutral-950/20 to-neutral-950/25"
       />
 
       <div
@@ -46,7 +46,7 @@ export function HeroSection({ settings }: { settings: StoreSettings }) {
       >
         <div className="flex min-h-0 flex-1 flex-col justify-center">
           <div className="max-w-3xl">
-            <p className="text-xs font-medium tracking-[0.18em] text-[#9DCFB0] uppercase sm:text-sm">
+            <p className="text-xs font-medium tracking-[0.18em] text-primary uppercase sm:text-sm">
               {settings.name}
             </p>
             <h1
@@ -63,7 +63,7 @@ export function HeroSection({ settings }: { settings: StoreSettings }) {
                 href="/products"
                 className={cn(
                   buttonVariants({ size: "lg" }),
-                  "bg-[#9DCFB0] text-[#101613] hover:bg-[#b7dcc4] sm:min-w-40",
+                  "bg-primary text-white hover:bg-primary/90 sm:min-w-40",
                 )}
               >
                 Shop all
@@ -81,10 +81,10 @@ export function HeroSection({ settings }: { settings: StoreSettings }) {
               <li key={item.label}>
                 <Link
                   href={item.href}
-                  className="flex h-full items-center justify-between gap-3 rounded-xl border border-white/25 bg-[#101613]/55 px-3 py-[clamp(0.45rem,1.1svh,0.75rem)] text-white backdrop-blur-md transition-colors hover:bg-[#101613]/75 sm:px-4"
+                  className="flex h-full items-center justify-between gap-3 rounded-xl border border-white/25 bg-neutral-950/55 px-3 py-[clamp(0.45rem,1.1svh,0.75rem)] text-white backdrop-blur-md transition-colors hover:bg-neutral-950/75 sm:px-4"
                 >
                   <span className="min-w-0">
-                    <span className="block text-[11px] tracking-[0.14em] text-[#9DCFB0]">
+                    <span className="block text-[11px] tracking-[0.14em] text-primary">
                       {String(index + 1).padStart(2, "0")}
                     </span>
                     <span className="mt-0.5 block text-sm font-medium">

@@ -332,7 +332,7 @@ export function ProductDetail({
                 title: "Support",
                 content: (
                   <p>
-                    Live chat is available 24/7. Email {settings.contact.email}
+                    Email {settings.contact.email}
                     {settings.contact.phone ? ` or call ${settings.contact.phone}` : ""}.
                   </p>
                 ),

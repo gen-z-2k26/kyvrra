@@ -82,7 +82,7 @@ export const CARE_LABEL_HREFS: Record<string, string> = {
   "Contact Our Team": "/contact-us",
   "Contact Customer Support": "/contact-us",
   "Share Your Feedback": "/contact-us",
-  "Shop Orvexo Electronics": "/products",
+  "Shop Kyvrra": "/products",
   "Shop All": "/products",
   "About Us": "/about-us",
   "Our Commitment": "/our-commitment",
@@ -101,7 +101,7 @@ export function hrefForAbsoluteUrl(url: string) {
   try {
     const parsed = new URL(url);
     const host = parsed.hostname.replace(/^www\./, "");
-    if (host === "droviia.us" || host === "orvexo.us") {
+    if (host === "kyvrra.us" || host === "orvexo.us") {
       const path = parsed.pathname.replace(/\/$/, "") || "/";
       return path;
     }

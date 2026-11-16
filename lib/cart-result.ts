@@ -13,7 +13,7 @@ const NAMED_ENTITIES: Record<string, string> = {
   quot: '"',
   times: "×",
   ndash: "–",
-  mdash: "—",
+  mdash: "\u2014",
   rsquo: "’",
   lsquo: "‘",
   hellip: "…",

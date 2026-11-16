@@ -8,13 +8,13 @@ import { cn } from "@/lib/utils";
 const items: TrustItem[] = [
   {
     icon: "truck",
-    title: "Shipping from $5",
-    text: "Standard shipping is $5 under $100 and free at $100 or more. Large appliances may include freight charges shown at checkout. Estimated parcel delivery is 3-6 business days.",
+    title: "Free U.S. shipping",
+    text: "Standard shipping is free on all orders in the United States. Estimated delivery is 5 to 9 business days.",
   },
   {
     icon: "refresh",
     title: "30-day returns",
-    text: "Eligible products can be requested for return within 30 days. Conditions, customer-paid return shipping, and a $5 restocking fee may apply.",
+    text: "Eligible defective and non-defective items can be returned within 30 days of delivery. Approved returns include free shipping and no restocking fee.",
   },
   {
     icon: "shield",
@@ -24,7 +24,7 @@ const items: TrustItem[] = [
   {
     icon: "message",
     title: "Help when you need it",
-    text: "Reach us by email or phone during opening hours. Live chat 24/7.",
+    text: "Email or call during weekday support hours, 10:00 AM to 5:00 PM Pacific Time.",
   },
 ];
 

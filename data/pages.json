@@ -1,9 +1,9 @@
 {
   "about": {
-    "eyebrow": "About DROVIIA",
+    "eyebrow": "About Kyvrra",
     "title": "Technology for Everyday Living. Confidence in Every Purchase.",
-    "intro": "At DROVIIA, we believe technology should make life easier, more connected, and more enjoyable. From electronics that support your everyday routine to accessories that enhance your home, work, and entertainment, our goal is to make shopping for technology simple, convenient, and accessible.",
-    "body": "Operated by Modern Closet Spaces LLC, DROVIIA is a US-focused online electronics store built around a straightforward idea: great technology deserves a better shopping experience. We bring together product information, flexible payment options, free standard shipping, and accessible customer support to help you shop with greater confidence.",
+    "intro": "At Kyvrra, we believe organization should make life easier, more connected, and more enjoyable. From organizers that support your everyday routine to accessories that enhance your home, work, and entertainment, our goal is to make shopping for organizers simple, convenient, and accessible.",
+    "body": "Operated by B & L Cosmetics Inc, Kyvrra is a US-focused online organization store built around a straightforward idea: great organization deserves a better shopping experience. We bring together product information, flexible payment options, free standard shipping, and accessible customer support to help you shop with greater confidence.",
     "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=1200",
     "values": [
       {
@@ -16,7 +16,7 @@
       },
       {
         "title": "Accessibility",
-        "text": "Useful technology and convenient purchasing options should be available to more customers."
+        "text": "Useful organization and convenient purchasing options should be available to more customers."
       },
       {
         "title": "Continuous improvement",
@@ -32,14 +32,14 @@
         "title": "Our story",
         "paragraphs": [
           "Built around a better way to shop. Technology is constantly evolving. New devices, smarter accessories, and innovative solutions are changing how people live and work. Finding the right product should not feel complicated.",
-          "DROVIIA was created to offer a more straightforward online shopping experience, one where customers can explore electronics, compare features, understand their options, and make informed purchasing decisions.",
-          "A good electronics store should offer more than a product catalog. It should provide clarity, convenience, and dependable support throughout the customer journey. That is the experience we are working to build at DROVIIA."
+          "Kyvrra was created to offer a more straightforward online shopping experience, one where customers can explore organizers, compare features, understand their options, and make informed purchasing decisions.",
+          "A good organization store should offer more than a product catalog. It should provide clarity, convenience, and dependable support throughout the customer journey. That is the experience we are working to build at Kyvrra."
         ]
       },
       {
         "title": "What we offer",
         "paragraphs": [
-          "Our store focuses on electronics, electronic accessories, and technology-related products designed to support modern lifestyles. Whether you are upgrading your setup, discovering useful technology, or shopping for something that makes everyday tasks more convenient, we aim to help you find products that suit your needs.",
+          "Our store focuses on makeup organizers, vanity storage, and related organization products designed to support modern lifestyles. Whether you are upgrading your setup, discovering useful organization, or shopping for something that makes everyday tasks more convenient, we aim to help you find products that suit your needs.",
           "As our product selection evolves, our commitment to a clear and dependable shopping experience remains the same."
         ],
         "bullets": [
@@ -53,19 +53,19 @@
       {
         "title": "Our mission",
         "paragraphs": [
-          "To make technology shopping more accessible, transparent, and convenient for customers across the United States.",
+          "To make organization shopping more accessible, transparent, and convenient for customers across the United States.",
           "We work toward this mission by focusing on three essentials: useful product information, a straightforward purchasing process, and responsive customer assistance. We want customers to feel informed before ordering, supported while their order is on its way, and confident about the options available if something does not go as expected."
         ]
       },
       {
         "title": "Our vision",
         "paragraphs": [
-          "To become a trusted destination for electronics and accessories by putting clarity, convenience, and customer experience at the center of online shopping.",
-          "We see DROVIIA as more than a place to purchase products. Our vision is to create a shopping destination where technology feels approachable, product choices are easier to understand, and customers know where to turn when they need help."
+          "To become a trusted destination for organizers and vanity storage and accessories by putting clarity, convenience, and customer experience at the center of online shopping.",
+          "We see Kyvrra as more than a place to purchase products. Our vision is to create a shopping destination where organization feels approachable, product choices are easier to understand, and customers know where to turn when they need help."
         ]
       },
       {
-        "title": "Why shop with DROVIIA?",
+        "title": "Why shop with Kyvrra?",
         "items": [
           {
             "title": "Free standard shipping",
@@ -81,7 +81,7 @@
           },
           {
             "title": "Customer support when you need it",
-            "text": "24/7 live chat is a convenient way to reach out. Our customer support team is also available through email and phone."
+            "text": "email and phone is a convenient way to reach out. Our customer support team is also available through email and phone."
           },
           {
             "title": "Transparent shopping information",
@@ -99,31 +99,31 @@
       {
         "title": "Proudly serving customers across the United States",
         "paragraphs": [
-          "DROVIIA is operated under Modern Closet Spaces LLC, with a business address in Gardena, California. Our online store focuses on serving eligible delivery addresses throughout the United States.",
-          "Whether you are shopping for everyday electronics or exploring your next technology upgrade, we aim to make the experience convenient wherever you are located within our supported delivery area."
+          "Kyvrra is operated under B & L Cosmetics Inc, with a business address in Jackson Heights, New York. Our online store focuses on serving eligible delivery addresses throughout the United States.",
+          "Whether you are shopping for everyday organizers or exploring your next organization upgrade, we aim to make the experience convenient wherever you are located within our supported delivery area."
         ]
       }
     ],
-    "ctaTitle": "Your next technology discovery starts here",
-    "ctaBody": "Whether you are looking for something practical, exploring new electronics, or upgrading the technology you use every day, DROVIIA is here to make the shopping experience simpler. Explore technology. Shop with confidence. Experience DROVIIA."
+    "ctaTitle": "Your next organization discovery starts here",
+    "ctaBody": "Whether you are looking for something practical, exploring new organizers, or upgrading the organization you use every day, Kyvrra is here to make the shopping experience simpler. Explore organization. Shop with confidence. Experience Kyvrra."
   },
   "contact": {
     "eyebrow": "Contact us",
     "title": "We're here to help",
-    "intro": "Welcome to DROVIIA. Whether you have a question about a product, need assistance with an existing order, or want to learn more about our shipping, payment, and return policies, our customer support team is here to help. We believe great customer service is an essential part of a great shopping experience.",
+    "intro": "Welcome to Kyvrra. Whether you have a question about a product, need assistance with an existing order, or want to learn more about our shipping, payment, and return policies, our customer support team is here to help. We believe great customer service is an essential part of a great shopping experience.",
     "channels": [
       {
         "title": "Email support",
-        "detail": "info@droviia.us",
+        "detail": "info@kyvrra.us",
         "text": "For product inquiries, order updates, returns, refunds, payment questions, and general customer assistance."
       },
       {
         "title": "Phone support",
-        "detail": "+1 (424) 329-0223",
-        "text": "Business hours: Monday-Friday, 9:00 AM-5:00 PM Pacific Time (PT)."
+        "detail": "+1 (929) 284-9437",
+        "text": "Business hours: Monday-Friday, 10:00 AM-5:00 PM Pacific Time (PT)."
       },
       {
-        "title": "24/7 live chat",
+        "title": "email and phone",
         "detail": "Available 24 hours a day, 7 days a week",
         "text": "Need help outside regular business hours? Use the chat option on our website to start a conversation whenever you need assistance."
       }
@@ -154,10 +154,10 @@
     "formNote": "Have a question or need assistance? Use this form or email us directly. Please provide as much relevant information as possible so our team can understand your request.",
     "securityNote": "For your security, do not include passwords, full payment card numbers, card security codes, or other sensitive financial credentials in your message.",
     "hours": [
-      { "channel": "Live chat", "availability": "24/7" },
-      { "channel": "Email", "availability": "info@droviia.us" },
-      { "channel": "Phone", "availability": "Monday-Friday, 9 AM-5 PM PT" },
-      { "channel": "Business office hours", "availability": "Monday-Friday, 9 AM-5 PM PT" }
+      { "channel": "Support", "availability": "during published support hours" },
+      { "channel": "Email", "availability": "info@kyvrra.us" },
+      { "channel": "Phone", "availability": "Monday-Friday, 10:00 AM-5:00 PM PT" },
+      { "channel": "Business office hours", "availability": "Monday-Friday, 10:00 AM-5:00 PM PT" }
     ],
     "faqs": [
       {
@@ -174,7 +174,7 @@
       },
       {
         "question": "How do I request a return?",
-        "answer": "Email info@droviia.us or contact our live chat within the applicable return window. Our team will review your request and provide return instructions."
+        "answer": "Email info@kyvrra.us or contact our live chat within the applicable return window. Our team will review your request and provide return instructions."
       },
       {
         "question": "Can I visit your business address to return an item?",
@@ -188,9 +188,9 @@
   },
   "commitment": {
     "eyebrow": "Our commitment",
-    "title": "Better technology. Clearer choices. A shopping experience built around you.",
-    "intro": "At DROVIIA, we believe purchasing technology should be simple, transparent, and convenient. Every product you explore, every order you place, and every question you ask matters to us.",
-    "body": "Operated by Modern Closet Spaces LLC, DROVIIA is committed to creating an online shopping experience where customers can make informed decisions, understand their purchasing options, and access support when they need it. Our commitment goes beyond offering electronics and accessories. It is about building customer confidence through clear information, straightforward policies, and a consistent focus on service. Because great technology deserves a shopping experience you can feel confident about.",
+    "title": "Better organization. Clearer choices. A shopping experience built around you.",
+    "intro": "At Kyvrra, we believe purchasing organization should be simple, transparent, and convenient. Every product you explore, every order you place, and every question you ask matters to us.",
+    "body": "Operated by B & L Cosmetics Inc, Kyvrra is committed to creating an online shopping experience where customers can make informed decisions, understand their purchasing options, and access support when they need it. Our commitment goes beyond offering organizers and accessories. It is about building customer confidence through clear information, straightforward policies, and a consistent focus on service. Because great organization deserves a shopping experience you can feel confident about.",
     "sections": [
       {
         "title": "1. Our promise to you",
@@ -225,7 +225,7 @@
       {
         "title": "4. Flexible payment options",
         "paragraphs": [
-          "DROVIIA offers eligible Buy Now, Pay Later services, with Afterpay as one of our primary payment options. Other payment methods, including Affirm, PayPal, and supported card payments, may be available depending on checkout configuration and provider eligibility.",
+          "Kyvrra offers eligible Buy Now, Pay Later services, with Afterpay as one of our primary payment options. Other payment methods, including Affirm, PayPal, and supported card payments, may be available depending on checkout configuration and provider eligibility.",
           "Financing approval, installment schedules, interest rates, and fees are determined by the financing provider. Customers should always review the full repayment terms before selecting a financing option."
         ]
       },
@@ -247,7 +247,7 @@
         "title": "6. Support beyond checkout",
         "paragraphs": [
           "We believe customer service should remain accessible after an order has been placed. Whether you are checking an order, asking about a product, or requesting return assistance, our team is available through multiple contact channels.",
-          "Live chat is available 24/7. Email info@droviia.us. Phone +1 (424) 329-0223. Business hours Monday-Friday, 9:00 AM-5:00 PM Pacific Time. Response times and resolution requirements may vary depending on the issue."
+          "Support is available during published support hours. Email info@kyvrra.us. Phone +1 (929) 284-9437. Business hours Monday-Friday, 10:00 AM-5:00 PM Pacific Time. Response times and resolution requirements may vary depending on the issue."
         ]
       },
       {
@@ -299,7 +299,7 @@
         ]
       },
       {
-        "title": "11. Continuously improving the DROVIIA experience",
+        "title": "11. Continuously improving the Kyvrra experience",
         "paragraphs": [
           "Technology evolves, and so do customer expectations. We aim to keep improving how customers discover products, navigate our website, complete checkout, and receive support. We believe trust is built through consistent effort and clear communication."
         ],
@@ -359,16 +359,16 @@
         "title": "13. Your feedback matters",
         "paragraphs": [
           "We welcome questions, suggestions, and constructive feedback about your shopping experience. Whether you have an idea for improving our website, need clarification about a product, or want to share a concern, you can contact our team. Customer feedback can help us understand what is working and where improvement may be needed.",
-          "Email: info@droviia.us. Phone: +1 (424) 329-0223. Live chat: available 24/7."
+          "Email: info@kyvrra.us. Phone: +1 (929) 284-9437. Support: available during published support hours."
         ]
       },
       {
         "title": "14. Our commitment to the future",
         "paragraphs": [
-          "We want DROVIIA to become a shopping destination customers associate with clarity, convenience, and helpful service. We understand that customer trust must be earned through actions and consistency. That is the standard we aim to work toward."
+          "We want Kyvrra to become a shopping destination customers associate with clarity, convenience, and helpful service. We understand that customer trust must be earned through actions and consistency. That is the standard we aim to work toward."
         ],
         "bullets": [
-          "Useful technology",
+          "Useful organization",
           "Transparent product information",
           "Straightforward purchasing",
           "Accessible support",
@@ -377,36 +377,36 @@
         ]
       }
     ],
-    "ctaTitle": "More than electronics. A commitment to your experience.",
-    "ctaBody": "At DROVIIA, our commitment is simple: make technology easier to discover, purchasing easier to understand, and customer support easier to access. We appreciate the opportunity to be part of your technology shopping journey."
+    "ctaTitle": "More than organizers. A commitment to your experience.",
+    "ctaBody": "At Kyvrra, our commitment is simple: make organization easier to discover, purchasing easier to understand, and customer support easier to access. We appreciate the opportunity to be part of your organization shopping journey."
   },
   "faq": {
     "eyebrow": "Help Center",
-    "title": "Everything you need to know about shopping at DROVIIA",
-    "intro": "We've answered common questions about our products, orders, shipping, payments, Buy Now Pay Later options, returns, refunds, and warranty support. Can't find what you're looking for? Email info@droviia.us, call +1 (424) 329-0223, or use live chat, available 24/7.",
+    "title": "Everything you need to know about shopping at Kyvrra",
+    "intro": "We've answered common questions about our products, orders, shipping, payments, Buy Now Pay Later options, returns, refunds, and warranty support. Can't find what you're looking for? Email info@kyvrra.us, call +1 (929) 284-9437, or use live chat, available during published support hours.",
     "groups": [
       {
         "title": "General questions",
         "items": [
           {
-            "question": "What is DROVIIA?",
-            "answer": "DROVIIA is an online store offering electronics, electronic accessories, and technology-related products to customers across our supported delivery areas in the United States. Our store is operated by Modern Closet Spaces LLC."
+            "question": "What is Kyvrra?",
+            "answer": "Kyvrra is an online store offering makeup organizers, vanity storage, and related organization products to customers across our supported delivery areas in the United States. Our store is operated by B & L Cosmetics Inc."
           },
           {
-            "question": "Where is DROVIIA located?",
-            "answer": "Our business address is 1320 W El Segundo Blvd Ste E, Gardena, CA 90247, United States. We operate an online shopping website at https://droviia.us. Our business address should not be treated as a retail showroom or an authorized return location."
+            "question": "Where is Kyvrra located?",
+            "answer": "Our business address is 37-53 90th St, Jackson Heights, NY 11372, United States. We operate an online shopping website at https://kyvrra.us. Our business address should not be treated as a retail showroom or an authorized return location."
           },
           {
             "question": "Do you have a physical store?",
-            "answer": "DROVIIA operates as an online store. We do not currently advertise a public retail showroom or in-person shopping service."
+            "answer": "Kyvrra operates as an online store. We do not currently advertise a public retail showroom or in-person shopping service."
           },
           {
-            "question": "Is DROVIIA available to customers outside the USA?",
+            "question": "Is Kyvrra available to customers outside the USA?",
             "answer": "No. We currently focus on orders delivered to eligible addresses within the United States."
           },
           {
             "question": "How can I contact customer support?",
-            "answer": "You can reach us through email, phone, or our website's live chat. Email: info@droviia.us. Phone: +1 (424) 329-0223. Live chat: available 24/7. Business hours: Monday-Friday, 9 AM-5 PM Pacific Time."
+            "answer": "You can reach us through email, phone, or our website's live chat. Email: info@kyvrra.us. Phone: +1 (929) 284-9437. Support: available during published support hours. Business hours: Monday-Friday, 10:00 AM-5:00 PM Pacific Time."
           }
         ]
       },
@@ -415,7 +415,7 @@
         "items": [
           {
             "question": "What types of products do you sell?",
-            "answer": "We offer electronics, accessories, and technology-related products. Browse our website to see our current product selection."
+            "answer": "We offer organizers, accessories, and organization-related products. Browse our website to see our current product selection."
           },
           {
             "question": "Are your products new?",
@@ -444,7 +444,7 @@
         "items": [
           {
             "question": "How do I place an order?",
-            "answer": "Browse droviia.us, select your products, add them to your cart, and proceed to checkout. Enter your shipping details, select an available payment method, review the total, and complete your purchase."
+            "answer": "Browse kyvrra.us, select your products, add them to your cart, and proceed to checkout. Enter your shipping details, select an available payment method, review the total, and complete your purchase."
           },
           {
             "question": "Will I receive an order confirmation?",
@@ -546,7 +546,7 @@
             "answer": "Buy Now, Pay Later allows eligible customers to purchase products and pay according to an installment or deferred payment arrangement offered by a third-party provider."
           },
           {
-            "question": "Does DROVIIA accept Afterpay?",
+            "question": "Does Kyvrra accept Afterpay?",
             "answer": "Yes. Afterpay is one of our primary payment options, subject to availability and provider approval."
           },
           {
@@ -596,11 +596,11 @@
           },
           {
             "question": "How do I start a return?",
-            "answer": "Email info@droviia.us or contact our live chat with your order number and reason for return. Our team will review the request and provide the appropriate return instructions."
+            "answer": "Email info@kyvrra.us or contact our live chat with your order number and reason for return. Our team will review the request and provide the appropriate return instructions."
           },
           {
             "question": "Can I send a return to your business address?",
-            "answer": "No. Do not send returns to our Gardena, California business address unless our team specifically authorizes that destination."
+            "answer": "No. Do not send returns to our Jackson Heights, New York business address unless our team specifically authorizes that destination."
           },
           {
             "question": "Do you offer exchanges?",
@@ -645,11 +645,11 @@
         "title": "Warranty and product support",
         "items": [
           {
-            "question": "Do all electronics come with a warranty?",
+            "question": "Do all organizers come with a warranty?",
             "answer": "No. Warranty availability varies by product and manufacturer."
           },
           {
-            "question": "Does DROVIIA provide a universal one-year warranty?",
+            "question": "Does Kyvrra provide a universal one-year warranty?",
             "answer": "No. We do not promise a blanket one-year warranty on all products."
           },
           {
@@ -683,7 +683,7 @@
           },
           {
             "question": "Can I request information about my personal data?",
-            "answer": "You may contact info@droviia.us with a privacy-related request. Applicable rights depend on relevant privacy laws."
+            "answer": "You may contact info@kyvrra.us with a privacy-related request. Applicable rights depend on relevant privacy laws."
           },
           {
             "question": "Will you ask for my payment password?",
@@ -696,15 +696,15 @@
         "items": [
           {
             "question": "What are your customer support hours?",
-            "answer": "Our business support hours are Monday through Friday, 9:00 AM-5:00 PM Pacific Time. Our website also offers 24/7 live chat."
+            "answer": "Our business support hours are Monday through Friday, 10:00 AM-5:00 PM Pacific Time. Our website also offers email and phone."
           },
           {
             "question": "What is your customer support email?",
-            "answer": "info@droviia.us"
+            "answer": "info@kyvrra.us"
           },
           {
             "question": "What is your customer support phone number?",
-            "answer": "+1 (424) 329-0223"
+            "answer": "+1 (929) 284-9437"
           },
           {
             "question": "What information should I provide when contacting support?",
@@ -712,7 +712,7 @@
           },
           {
             "question": "Can I contact you about an order outside business hours?",
-            "answer": "Yes. You can send an email at any time or use our 24/7 live chat. Response times may vary."
+            "answer": "Yes. You can send an email at any time or use our email and phone. Response times may vary."
           }
         ]
       }

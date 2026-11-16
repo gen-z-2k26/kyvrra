@@ -4,10 +4,10 @@ import { pageContainer } from "@/lib/layout";
 import type { TrustItem } from "@/lib/types";
 
 const items: TrustItem[] = [
-  { icon: "truck", title: "Shipping from $5", text: "Free standard shipping at $100 or more" },
-  { icon: "refresh", title: "30-day returns", text: "Eligible items, with conditions" },
-  { icon: "shield", title: "Secure checkout", text: "Review the total before you pay" },
-  { icon: "message", title: "Live chat 24/7", text: "Phone support Mon-Fri, 9-5 PT" },
+  { icon: "truck", title: "Free U.S. shipping", text: "No minimum, estimated delivery 5 to 9 business days" },
+  { icon: "refresh", title: "30-day returns", text: "Free return shipping and free exchanges" },
+  { icon: "shield", title: "No restocking fee", text: "Review the total before you pay" },
+  { icon: "message", title: "Weekday support", text: "Monday to Friday, 10:00 AM to 5:00 PM PT" },
 ];
 
 export function TrustStripSection() {

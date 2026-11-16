@@ -16,11 +16,11 @@ const pillars = [
   },
   {
     title: "Shipping you can review",
-    text: "Standard shipping is $5 under $100 and free at $100 or more. Freight for large appliances is shown at checkout.",
+    text: "Standard shipping is free on every order in the United States. Estimated delivery is 5 to 9 business days.",
   },
   {
     title: "Straightforward returns",
-    text: "Eligible items have a 30-day window. Conditions apply, return shipping is paid by the customer, and a $5 restocking fee applies to standard non-defective returns.",
+    text: "Eligible products can be returned within 30 days of delivery, including defective and non-defective items. Return shipping is free and there is no restocking fee.",
   },
 ];
 
@@ -34,7 +34,7 @@ export function CommitmentSection() {
         <SectionHeader
           eyebrow="Our commitment"
           title="Clear information, then support when you need it"
-          subtitle="The same standards apply whether the order is a styling tool or a major appliance."
+          subtitle="Clear product details, free U.S. shipping, and support you can reach on weekdays."
           titleId="commitment-heading"
           action={
             <Link
