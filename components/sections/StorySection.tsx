@@ -19,7 +19,7 @@ export function StorySection({ settings }: { settings: StoreSettings }) {
       >
         <RevealImage className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-muted">
           <Image
-            src="/brand/collection-care.jpg"
+            src="/brand/collection-vanity.jpg"
             alt="A vanity kept clear with everyday storage"
             fill
             sizes="(min-width: 1024px) 40vw, 100vw"

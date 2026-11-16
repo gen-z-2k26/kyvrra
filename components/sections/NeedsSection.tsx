@@ -9,7 +9,7 @@ const needs = [
   {
     title: "Makeup organizers",
     text: "Trays, drawers, and holders that keep beauty essentials in one place.",
-    image: "/brand/collection-care.jpg",
+    image: "/brand/collection-makeup.jpg",
     alt: "Vanity surface with everyday personal care items",
     imageClass: "object-[62%_center]",
     tile: "feature" as const,
@@ -17,7 +17,7 @@ const needs = [
   {
     title: "Vanity storage",
     text: "Storage made for vanities, so counters stay clear and easy to use.",
-    image: "/brand/collection-home.jpg",
+    image: "/brand/collection-vanity.jpg",
     alt: "A tidy room with practical storage",
     imageClass: "object-[center_22%]",
     tile: "wide" as const,
@@ -25,7 +25,7 @@ const needs = [
   {
     title: "Beauty accessory organizers",
     text: "Holders for brushes, bottles, and the small pieces that usually scatter.",
-    image: "/brand/collection-kitchen.jpg",
+    image: "/brand/collection-accessories.jpg",
     alt: "Organized household storage",
     imageClass: "object-[center_58%]",
     tile: "compact" as const,
@@ -33,7 +33,7 @@ const needs = [
   {
     title: "Home organization",
     text: "Practical storage for everyday spaces beyond the vanity.",
-    image: "/brand/collection-climate.jpg",
+    image: "/brand/collection-home-org.jpg",
     alt: "A bright, uncluttered living space",
     imageClass: "object-[24%_42%]",
     tile: "compact" as const,
