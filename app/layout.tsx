@@ -77,11 +77,17 @@ export async function generateMetadata(): Promise<Metadata> {
       alternates: {
         canonical: "/",
       },
+      verification: {
+        google: "RPVgDgbYHdGXsvZdabrEGjGluA1RUsn_jUDiNg93ey0",
+      },
     };
   } catch {
     return {
       title: "Online store",
       description: "Simple ecommerce storefront.",
+      verification: {
+        google: "RPVgDgbYHdGXsvZdabrEGjGluA1RUsn_jUDiNg93ey0",
+      },
       robots: {
         index: true,
         follow: true,

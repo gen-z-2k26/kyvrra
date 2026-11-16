@@ -114,7 +114,7 @@
     "channels": [
       {
         "title": "Email support",
-        "detail": "info@kyvrra.us",
+        "detail": "info@kyvrra.com",
         "text": "For product inquiries, order updates, returns, refunds, payment questions, and general customer assistance."
       },
       {
@@ -155,7 +155,7 @@
     "securityNote": "For your security, do not include passwords, full payment card numbers, card security codes, or other sensitive financial credentials in your message.",
     "hours": [
       { "channel": "Support", "availability": "during published support hours" },
-      { "channel": "Email", "availability": "info@kyvrra.us" },
+      { "channel": "Email", "availability": "info@kyvrra.com" },
       { "channel": "Phone", "availability": "Monday-Friday, 10:00 AM-5:00 PM PT" },
       { "channel": "Business office hours", "availability": "Monday-Friday, 10:00 AM-5:00 PM PT" }
     ],
@@ -174,7 +174,7 @@
       },
       {
         "question": "How do I request a return?",
-        "answer": "Email info@kyvrra.us or contact our live chat within the applicable return window. Our team will review your request and provide return instructions."
+        "answer": "Email info@kyvrra.com or contact our live chat within the applicable return window. Our team will review your request and provide return instructions."
       },
       {
         "question": "Can I visit your business address to return an item?",
@@ -247,7 +247,7 @@
         "title": "6. Support beyond checkout",
         "paragraphs": [
           "We believe customer service should remain accessible after an order has been placed. Whether you are checking an order, asking about a product, or requesting return assistance, our team is available through multiple contact channels.",
-          "Support is available during published support hours. Email info@kyvrra.us. Phone +1 (929) 284-9437. Business hours Monday-Friday, 10:00 AM-5:00 PM Pacific Time. Response times and resolution requirements may vary depending on the issue."
+          "Support is available during published support hours. Email info@kyvrra.com. Phone +1 (929) 284-9437. Business hours Monday-Friday, 10:00 AM-5:00 PM Pacific Time. Response times and resolution requirements may vary depending on the issue."
         ]
       },
       {
@@ -359,7 +359,7 @@
         "title": "13. Your feedback matters",
         "paragraphs": [
           "We welcome questions, suggestions, and constructive feedback about your shopping experience. Whether you have an idea for improving our website, need clarification about a product, or want to share a concern, you can contact our team. Customer feedback can help us understand what is working and where improvement may be needed.",
-          "Email: info@kyvrra.us. Phone: +1 (929) 284-9437. Support: available during published support hours."
+          "Email: info@kyvrra.com. Phone: +1 (929) 284-9437. Support: available during published support hours."
         ]
       },
       {
@@ -383,7 +383,7 @@
   "faq": {
     "eyebrow": "Help Center",
     "title": "Everything you need to know about shopping at Kyvrra",
-    "intro": "We've answered common questions about our products, orders, shipping, payments, Buy Now Pay Later options, returns, refunds, and warranty support. Can't find what you're looking for? Email info@kyvrra.us, call +1 (929) 284-9437, or use live chat, available during published support hours.",
+    "intro": "We've answered common questions about our products, orders, shipping, payments, Buy Now Pay Later options, returns, refunds, and warranty support. Can't find what you're looking for? Email info@kyvrra.com, call +1 (929) 284-9437, or use live chat, available during published support hours.",
     "groups": [
       {
         "title": "General questions",
@@ -394,7 +394,7 @@
           },
           {
             "question": "Where is Kyvrra located?",
-            "answer": "Our business address is 37-53 90th St, Jackson Heights, NY 11372, United States. We operate an online shopping website at https://kyvrra.us. Our business address should not be treated as a retail showroom or an authorized return location."
+            "answer": "Our business address is 37-53 90th St, Jackson Heights, NY 11372, United States. We operate an online shopping website at https://kyvrra.com. Our business address should not be treated as a retail showroom or an authorized return location."
           },
           {
             "question": "Do you have a physical store?",
@@ -406,7 +406,7 @@
           },
           {
             "question": "How can I contact customer support?",
-            "answer": "You can reach us through email, phone, or our website's live chat. Email: info@kyvrra.us. Phone: +1 (929) 284-9437. Support: available during published support hours. Business hours: Monday-Friday, 10:00 AM-5:00 PM Pacific Time."
+            "answer": "You can reach us through email, phone, or our website's live chat. Email: info@kyvrra.com. Phone: +1 (929) 284-9437. Support: available during published support hours. Business hours: Monday-Friday, 10:00 AM-5:00 PM Pacific Time."
           }
         ]
       },
@@ -444,7 +444,7 @@
         "items": [
           {
             "question": "How do I place an order?",
-            "answer": "Browse kyvrra.us, select your products, add them to your cart, and proceed to checkout. Enter your shipping details, select an available payment method, review the total, and complete your purchase."
+            "answer": "Browse kyvrra.com, select your products, add them to your cart, and proceed to checkout. Enter your shipping details, select an available payment method, review the total, and complete your purchase."
           },
           {
             "question": "Will I receive an order confirmation?",
@@ -596,7 +596,7 @@
           },
           {
             "question": "How do I start a return?",
-            "answer": "Email info@kyvrra.us or contact our live chat with your order number and reason for return. Our team will review the request and provide the appropriate return instructions."
+            "answer": "Email info@kyvrra.com or contact our live chat with your order number and reason for return. Our team will review the request and provide the appropriate return instructions."
           },
           {
             "question": "Can I send a return to your business address?",
@@ -683,7 +683,7 @@
           },
           {
             "question": "Can I request information about my personal data?",
-            "answer": "You may contact info@kyvrra.us with a privacy-related request. Applicable rights depend on relevant privacy laws."
+            "answer": "You may contact info@kyvrra.com with a privacy-related request. Applicable rights depend on relevant privacy laws."
           },
           {
             "question": "Will you ask for my payment password?",
@@ -700,7 +700,7 @@
           },
           {
             "question": "What is your customer support email?",
-            "answer": "info@kyvrra.us"
+            "answer": "info@kyvrra.com"
           },
           {
             "question": "What is your customer support phone number?",

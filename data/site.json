@@ -12,7 +12,7 @@
   "decimalSeparator": ".",
   "locale": "en-US",
   "contact": {
-    "email": "info@kyvrra.us",
+    "email": "info@kyvrra.com",
     "phone": "+1 (929) 284-9437",
     "address": "37-53 90th St, Jackson Heights, NY 11372, United States",
     "openingHours": "Monday-Friday, 10:00 AM-5:00 PM Pacific Time",
@@ -175,7 +175,7 @@
       "home organization"
     ],
     "ogImage": "/brand/kyvrra-logo-dark.png",
-    "siteUrl": "https://kyvrra.us"
+    "siteUrl": "https://kyvrra.com"
   },
   "theme": {
     "font": "var(--font-figtree)",

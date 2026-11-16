@@ -81,7 +81,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
         title: "Who we are",
         paragraphs: [
           "Kyvrra is an online store operated by B & L Cosmetics Inc. Our business correspondence address is 37-53 90th St, Jackson Heights, NY 11372, United States. That address is not a retail showroom or an authorized return location.",
-          "Questions about this policy can be sent to info@kyvrra.us or +1 (929) 284-9437. Live chat is available 24/7. Phone support hours are Monday-Friday, 10:00 AM-5:00 PM Pacific Time.",
+          "Questions about this policy can be sent to info@kyvrra.com or +1 (929) 284-9437. Live chat is available 24/7. Phone support hours are Monday-Friday, 10:00 AM-5:00 PM Pacific Time.",
         ],
       },
       {
@@ -131,7 +131,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Your privacy choices",
         paragraphs: [
-          "You may contact info@kyvrra.us with a privacy-related request, including access, correction, or deletion where applicable law provides those rights. We will review the request and respond according to the laws that apply to your situation.",
+          "You may contact info@kyvrra.com with a privacy-related request, including access, correction, or deletion where applicable law provides those rights. We will review the request and respond according to the laws that apply to your situation.",
           "California residents and other US shoppers can also visit the Your Privacy Choices page on this site.",
         ],
       },
@@ -197,7 +197,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Contact",
         paragraphs: [
-          "Email info@kyvrra.us, call +1 (929) 284-9437, or use live chat, available 24/7. Business hours are Monday-Friday, 10:00 AM-5:00 PM Pacific Time.",
+          "Email info@kyvrra.com, call +1 (929) 284-9437, or use live chat, available 24/7. Business hours are Monday-Friday, 10:00 AM-5:00 PM Pacific Time.",
         ],
       },
     ],
@@ -219,7 +219,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
     groupTitles: ["General questions"],
     paragraphs: [
       "Business address: 37-53 90th St, Jackson Heights, NY 11372, United States. This address is for business correspondence and is not a retail showroom or an authorized return location.",
-      "Website: https://kyvrra.us. Email: info@kyvrra.us. Phone: +1 (929) 284-9437.",
+      "Website: https://kyvrra.com. Email: info@kyvrra.com. Phone: +1 (929) 284-9437.",
     ],
   },
   {
@@ -259,7 +259,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
       {
         title: "Request assistance",
         paragraphs: [
-          "If you have trouble using a page, product listing, or checkout step, email info@kyvrra.us or call +1 (929) 284-9437. Tell us the page you were on and what you were trying to do. We will help you complete your request.",
+          "If you have trouble using a page, product listing, or checkout step, email info@kyvrra.com or call +1 (929) 284-9437. Tell us the page you were on and what you were trying to do. We will help you complete your request.",
           "Live chat is available 24/7. Phone support hours are Monday-Friday, 10:00 AM-5:00 PM Pacific Time. Our business address is 37-53 90th St, Jackson Heights, NY 11372, United States, for correspondence only.",
         ],
       },
@@ -270,7 +270,7 @@ export const POLICY_PAGES: PolicyPageDef[] = [
     title: "Your Privacy Choices",
     description: "How to ask about personal data used for your Kyvrra orders.",
     intro:
-      "You may contact info@kyvrra.us with a privacy-related request. Applicable rights depend on relevant privacy laws.",
+      "You may contact info@kyvrra.com with a privacy-related request. Applicable rights depend on relevant privacy laws.",
     groupTitles: ["Accounts, privacy, and security"],
   },
 ];

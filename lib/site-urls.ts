@@ -1,4 +1,4 @@
-/** Public storefront paths, matching https://kyvrra.us/ */
+/** Public storefront paths, matching https://kyvrra.com/ */
 
 export const CONTENT_PAGES = [
   { slug: "about-us", title: "About Us" },
@@ -42,8 +42,8 @@ const PATH_ALIASES: Record<string, string> = {
 };
 
 const STORE_HOSTS = new Set([
-  "kyvrra.us",
-  "www.kyvrra.us",
+  "kyvrra.com",
+  "www.kyvrra.com",
   "orvexo.us",
   "www.orvexo.us",
   "admin.orvexo.us",
